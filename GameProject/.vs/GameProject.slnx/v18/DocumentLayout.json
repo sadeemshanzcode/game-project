@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|c:\\users\\romeo\\downloads\\gameproject (2)\\gameproject\\gameproject\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\gameproject\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\gameproject\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\gameproject\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\gameproject\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\gameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90ED9638-D57F-4DAF-9CCC-955576C52090}|GameProject\\GameProject.csproj|solutionrelative:gameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "GameProject\\UI\\GameUI.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\UI\\GameUI.cs",
+              "RelativeToolTip": "GameProject\\UI\\GameUI.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:11:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GameProject\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Models\\Player.cs",
+              "RelativeToolTip": "GameProject\\Models\\Player.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:13:34.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Models\\Monster.cs",
+              "RelativeDocumentMoniker": "GameProject\\Models\\Monster.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Models\\Monster.cs",
+              "RelativeToolTip": "GameProject\\Models\\Monster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:13:32.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Repositories\\ScoreRepository.cs",
+              "RelativeDocumentMoniker": "GameProject\\Repositories\\ScoreRepository.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Repositories\\ScoreRepository.cs",
+              "RelativeToolTip": "GameProject\\Repositories\\ScoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:13:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameProject\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Services\\GameService.cs",
+              "RelativeToolTip": "GameProject\\Services\\GameService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:11:43.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Program.cs",
+              "RelativeDocumentMoniker": "GameProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Romeo\\Downloads\\GameProject (2)\\GameProject\\GameProject\\Program.cs",
+              "RelativeToolTip": "GameProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:04:17.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
